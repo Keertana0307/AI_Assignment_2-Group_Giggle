@@ -200,16 +200,16 @@ Download the repository as a ZIP file and extract it.
 Alternatively, clone the repository using:
 
 ```bash
-git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle)
+git clone https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle
 ```
 
 Move into the project folder:
 
 ```bash
-cd YOUR_PROJECT_FOLDER
+cd AI_Assignment_2-Group_Giggle
 ```
 
-Replace `[YOUR_GITHUB_REPOSITORY_URL](https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle)` and `AI_Assignment_2-Group_Giggle` with the actual repository information.
+Replace `https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle` and `AI_Assignment_2-Group_Giggle` with the actual repository information.
 
 ### Step 2: Open the Project in Visual Studio Code
 
