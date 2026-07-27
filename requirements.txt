@@ -1,0 +1,7 @@
+matplotlib
+networkx
+numpy
+requests
+Pillow
+imageio-ffmpeg
+graphviz
