@@ -209,8 +209,6 @@ Move into the project folder:
 cd AI_Assignment_2-Group_Giggle
 ```
 
-Replace `https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle` and `AI_Assignment_2-Group_Giggle` with the actual repository information.
-
 ### Step 2: Open the Project in Visual Studio Code
 
 1. Open Visual Studio Code.
