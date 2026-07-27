@@ -23,7 +23,7 @@ Total path cost: 1.11854
 
 ## Visualisation Video
 
-[View the route visualisation video]([PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE](https://drive.google.com/file/d/13QCvnF7gLcpxH2n5fWeWOjyYYXS6zM3j/view?usp=sharing)
+[View the route visualisation video](https://drive.google.com/file/d/13QCvnF7gLcpxH2n5fWeWOjyYYXS6zM3j/view?usp=sharing)
 
 ## Technologies Used
 
